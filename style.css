@@ -7,14 +7,14 @@ stylesheet
 <body>
 .btn-primary {
      color: black;
-     background-color: #f000f8;
+     background-color: #f56565;
      border-color: black;
      font-weight: bold; /*set the color you want here*/
  }
  .btn-primary:hover{
      color:#bcb88a;
      border-color: #f56565; /*set the color you want here*/
-     background-color: rgb(142, 243, 98);
+     background-color: rgb(238, 4, 4);;
      font-weight: bold;
      font-size: 18px;
      border-radius: 12px;
@@ -35,7 +35,7 @@ stylesheet
  .navbar ul li input:hover{
      color:#556b2f;
      border-color: #f56565; /*set the color you want here*/
-     background-color: rgb(207, 190, 190);
+     background-color: rgb(238, 4, 4);;
      font-weight: bold;
      font-size: 18px;
      border-radius: 12px;
