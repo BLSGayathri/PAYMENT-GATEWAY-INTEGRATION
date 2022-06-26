@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>
+stylesheet
+</title>
+</head>
+<body>
+.btn-primary {
+     color: black;
+     background-color: #f000f8;
+     border-color: black;
+     font-weight: bold; /*set the color you want here*/
+ }
+ .btn-primary:hover{
+     color:#bcb88a;
+     border-color: #f56565; /*set the color you want here*/
+     background-color: rgb(142, 243, 98);
+     font-weight: bold;
+     font-size: 18px;
+     border-radius: 12px;
+ }
+ 
+ .navbar ul{
+     float: right;
+ }
+ .navbar ul li{
+     list-style: none;
+     display: inline-block;
+     padding-right: 20px;
+     padding-top: 20px;
+     margin: 5px;
+     font-family: ArialBlack, BellMT, sans-serif;
+     align-self: center;
+ }
+ .navbar ul li input:hover{
+     color:#556b2f;
+     border-color: #f56565; /*set the color you want here*/
+     background-color: rgb(207, 190, 190);
+     font-weight: bold;
+     font-size: 18px;
+     border-radius: 12px;
+ }
+ 
+ .navbar ul li a{
+     padding-top: auto;
+     padding-right: auto;
+         font-size: 25px;
+         font-family: ArialBlack, BellMT, sans-serif;
+         color: black;
+         padding: 6px 13px;
+         text-decoration: none;
+         transition: .5s;
+ }
+ 
+ .navbar{
+     padding-top: 0px;
+     padding-bottom: 0px;
+ }
+ 
+ .navbar-brand{
+     padding-right: 200px;
+     }
+     </body>
+     </html>
